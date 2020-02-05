@@ -16,4 +16,4 @@ In *dataset* folder, 2D points dataset are provided. With the *Generator* script
 
 Dataset and results are stored in .csv format.
 
-<img src="https://github.com/pisalore/MeanShift_sequentialCPP/blob/master/example.png " width="100" height="100">
+<img src="https://github.com/pisalore/MeanShift_sequentialCPP/blob/master/example.png " width="500" height="500">
