@@ -11,3 +11,5 @@ The parallel Mean Shift has been implemented using CUDA: here the code [CUDA Mea
 For further informations about Mean Shift algorithm, C++ sequential implementation, CUDA parallel implementation and performances analysis, please consult the realted paper [here](https://github.com/pisalore/MeanShift_CUDA/blob/master/PC_MeanShift_midterm.pdf).
 
 ## Getting started
+Please, consider to download [CLion](https://www.jetbrains.com/clion/download/download-thanks.html): with this IDE you will have all the necessary to launch the application, builded with **CMake**.
+In *dataset* folder, 2D points dataset are provided. With the *Generator* script it's possibile to create your own dataset, changing points dimension and dataset size.
