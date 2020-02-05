@@ -13,3 +13,8 @@ For further informations about Mean Shift algorithm, C++ sequential implementati
 ## Getting started
 Please, consider to download [CLion](https://www.jetbrains.com/clion/download/download-thanks.html): with this IDE you will have all the necessary to launch the application, builded with **CMake**.
 In *dataset* folder, 2D points dataset are provided. With the *Generator* script it's possibile to create your own dataset, changing points dimension and dataset size.
+
+Dataset and results are stored in .csv format.
+
+
+![](https://github.com/pisalore/MeanShift_sequentialCPP/blob/master/example.png)
