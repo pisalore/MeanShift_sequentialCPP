@@ -15,5 +15,6 @@ Please, consider to download [CLion](https://www.jetbrains.com/clion/download/do
 In *dataset* folder, 2D points dataset are provided. With the *Generator* script it's possibile to create your own dataset, changing points dimension and dataset size.
 
 Dataset and results are stored in .csv format.
+[glm library](https://glm.g-truc.net/0.9.9/index.html) has been used in order to manage point vectors.
 
 <img src="https://github.com/pisalore/MeanShift_sequentialCPP/blob/master/example.png " width="400" height="300">
