@@ -10,4 +10,4 @@ In this repo the Mean Shift algorithm implementation is presented; this repo bel
 The parallel Mean Shift has been implemented using CUDA: here the code [CUDA MeanShift Algorithm](https://github.com/pisalore/MeanShift_CUDA).
 For further informations about Mean Shift algorithm, C++ sequential implementation, CUDA parallel implementation and performances analysis, please consult the realted paper [here](https://github.com/pisalore/MeanShift_CUDA/blob/master/PC_MeanShift_midterm.pdf).
 
-##Getting started
+## Getting started
